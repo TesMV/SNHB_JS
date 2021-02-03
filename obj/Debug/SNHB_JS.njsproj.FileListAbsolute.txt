@@ -1,0 +1,3 @@
+C:\Users\tesel\source\repos\SNHB_JS\SNHB_JS\obj\Debug\SNHB_JS.njsprojAssemblyReference.cache
+C:\Users\tesel\source\repos\SNHB_JS\SNHB_JS\obj\Debug\SNHB_JS.njsproj.CoreCompileInputs.cache
+C:\Users\tesel\source\repos\SNHB_JS\SNHB_JS\bin\Microsoft.NodejsTools.WebRole.dll
